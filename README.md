@@ -18,7 +18,7 @@ My Shopping List App is a simple application built using Jetpack Compose for man
 
 To get started with My Shopping List App, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/GeniusApk/my-shopping-list-app.git`
+1. Clone this repository: `git clone https://github.com/GeniusApk/shoppinglistapp.git`
 2. Open the project in Android Studio.
 3. Build and run the project on an emulator or a physical device.
 
